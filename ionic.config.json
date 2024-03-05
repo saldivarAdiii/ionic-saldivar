@@ -1,0 +1,7 @@
+{
+  "name": "ionic-saldivar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
